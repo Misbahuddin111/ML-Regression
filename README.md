@@ -196,13 +196,5 @@ Computer Science Student | Machine Learning Enthusiast
 
 ```
 
----
 
-If you want next:
-- ⭐ **Short README for recruiters**
-- 🧠 **Interview explanation of this project**
-- 📄 **Project description for CV**
-- 🏷 **GitHub badges & visuals**
-
-Just tell me 👍
 ```
