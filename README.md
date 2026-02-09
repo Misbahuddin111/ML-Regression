@@ -1,9 +1,4 @@
-Below is the **same README written fully in proper Markdown (.md) format**.
-You can **copy–paste this directly** into a file named **`README.md`** in your GitHub repo.
 
----
-
-````md
 # 🏡 House Price Prediction using Regularized Regression
 
 ## 📌 Project Overview
